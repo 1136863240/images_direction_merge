@@ -1,0 +1,2 @@
+该项目原为某网友拜托作者开发的类PDF生成软件，作者觉得这个项目正好可以用于图像合并，就略作修改后将该项目开源，而且实际上这个项目已经开发了很久了，之前一直在码云上，现在才发到GitHub。
+This project was originally developed by a netizen who asked the author to create a PDF like software. The author thought that this project could be used for image merging, so they made slight modifications and opened it up. In fact, this project has been under development for a long time and was previously on the code cloud. It has only been released to GitHub now.
